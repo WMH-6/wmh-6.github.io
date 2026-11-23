@@ -1,0 +1,78 @@
+{
+  "portrait": {
+    "src": "/media/v1/portrait-768.85203692046f.webp",
+    "srcSet": "/media/v1/portrait-384.e4d17f0b5b6f.webp 384w, /media/v1/portrait-768.85203692046f.webp 768w, /media/v1/portrait-1089.ba14297c95a1.webp 1089w",
+    "width": 1089,
+    "height": 1445,
+    "variants": [
+      {
+        "src": "/media/v1/portrait-384.e4d17f0b5b6f.webp",
+        "width": 384,
+        "height": 510,
+        "bytes": 36832
+      },
+      {
+        "src": "/media/v1/portrait-768.85203692046f.webp",
+        "width": 768,
+        "height": 1019,
+        "bytes": 98398
+      },
+      {
+        "src": "/media/v1/portrait-1089.ba14297c95a1.webp",
+        "width": 1089,
+        "height": 1445,
+        "bytes": 157938
+      }
+    ]
+  },
+  "icons": {
+    "figma": {
+      "src": "/media/v1/figma-172.e42560135f93.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 2286
+    },
+    "sketch": {
+      "src": "/media/v1/sketch-172.577a8661d4a9.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 2714
+    },
+    "photoshop": {
+      "src": "/media/v1/photoshop-172.c30bcb50a4e8.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 2462
+    },
+    "illustrator": {
+      "src": "/media/v1/illustrator-172.a53385ccc3dd.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 2538
+    },
+    "3ds-max": {
+      "src": "/media/v1/3ds-max-172.290e17227a06.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 4358
+    },
+    "chatgpt": {
+      "src": "/media/v1/chatgpt-172.5ead24776af7.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 3472
+    },
+    "ai-assistant": {
+      "src": "/media/v1/ai-assistant-172.71abd6546b30.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 2200
+    },
+    "ai-generation": {
+      "src": "/media/v1/ai-generation-172.96c37cefbab1.webp",
+      "width": 172,
+      "height": 172,
+      "bytes": 3534
+    }
+  }
+}
